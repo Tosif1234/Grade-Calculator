@@ -1,9 +1,6 @@
 #include<iostream>
 using namespace std;
 
-int main(){
-
-
     // 1. Enter Your Score..
     // 2. If Score < 0 or Score > 100 Then Invalid Score
     // 3. Check The Grade using Ternary Operator
@@ -21,7 +18,9 @@ int main(){
     // 6.Check Eligibility
     //      if grade 'A','B','C','D' Then You are eligible for the next level
     //      else Please try again next time.
-    
+
+int main(){
+
     int score;
     char grade;
 

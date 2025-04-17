@@ -59,3 +59,7 @@ int main(){
 
     return 0;
 }
+
+
+<!-- Output Example -->
+["./image.png"]
