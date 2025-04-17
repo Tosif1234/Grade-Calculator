@@ -22,7 +22,7 @@ This C++ program takes a student's score as input, calculates the corresponding 
 
 Below is an actual run of the program in the terminal:
 
-![Program Output](images/output.png)
+![Program Output]("images/output.png")
 
 
 
