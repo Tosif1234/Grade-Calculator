@@ -21,13 +21,13 @@ This C++ program takes a student's score as input, calculates the corresponding 
 
 Below is an actual run of the program in the terminal:
 
-![Program Output](images/Grade-calc.png)
+![Program Output](Grade-calc.png)
 
 ## 📸 Sample Output Screenshot
 
 Below is an actual run of the program in the terminal:
 
-![Program Output](images/image.png)
+![Program Output](images/)
 
 
 
