@@ -17,6 +17,11 @@ This C++ program takes a student's score as input, calculates the corresponding 
 -  Checks if you're eligible for the next level
 
 ---
+## 📸 Sample Our Flowchart
+
+Below is an actual run of the program in the terminal:
+
+![Program Output](images/Grade-calc.png)
 
 ## 📸 Sample Output Screenshot
 
