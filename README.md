@@ -1,3 +1,35 @@
+#  Grade Checker in C++
+
+This C++ program takes a student's score as input, calculates the corresponding grade using a **ternary operator**, and displays a custom comment using a **switch statement**.
+
+---
+
+##  Features
+
+- Validates score input (must be between 0 and 100)
+- Calculates grade:
+  - A: 80 and above
+  - B: 70 - 79
+  - C: 60 - 69
+  - D: 50 - 59
+  - F: Below 50
+- Prints performance feedback using `switch-case`
+-  Checks if you're eligible for the next level
+
+---
+
+##  Sample Output
+## Screenshot
+
+Below is an actual run of the program in the terminal:
+
+![Program Output]
+["./image.png"]
+
+
+
+##  Our Code
+
 #include<iostream>
 using namespace std;
 
@@ -61,5 +93,3 @@ int main(){
 }
 
 
-<!-- Output Example -->
-["./image.png"]
