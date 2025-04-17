@@ -27,7 +27,8 @@ Below is an actual run of the program in the terminal:
 
 Below is an actual run of the program in the terminal:
 
-![Program Output](images/)
+![Program Output](images/A.png)
+![Program Output](images/F.png)
 
 
 
