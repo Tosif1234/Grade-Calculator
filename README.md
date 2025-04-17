@@ -26,8 +26,10 @@ Below is an actual run of the program in the terminal:
 ## 📸 Sample Output Screenshot
 
 Below is an actual run of the program in the terminal:
+Input:94
 
 ![Program Output](images/A.png)
+Input:33
 ![Program Output](images/F.png)
 
 
