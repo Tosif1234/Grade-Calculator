@@ -18,13 +18,12 @@ This C++ program takes a student's score as input, calculates the corresponding 
 
 ---
 
-##  Sample Output
-## Screenshot
+## 📸 Sample Output Screenshot
 
 Below is an actual run of the program in the terminal:
 
-![Program Output]
-["./images/"]
+![Program Output](images/output.png)
+
 
 
 
